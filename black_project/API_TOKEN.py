@@ -1,0 +1,2 @@
+# Тут ТГ апи токен
+API_TOKEN = '7570679082:AAG1lY6pzBSoTJtXMAKjCnIgSGtHfK0o348'
